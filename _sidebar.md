@@ -1,5 +1,5 @@
-
-* [必读](./docs/a-1关于本页面.md)
+* 必读 
+  * [必读](./docs/a-1关于本页面.md)
   
 * 前言
 
@@ -10,5 +10,10 @@
   * [Custom Skin Loader mod](./docs/c-2CustomSkinLoadermod.md)
   * [Yggdrasil API 认证服务器](./docs/c-3YggdrasilAPI认证服务器.md)
   * [Authlib Injector](./docs/c-4AuthlibInjector)
+  * [下载站](./docs/d-下载站.md)
   
-
+* 问题
+  * [使用了Custom Skin Loader mod无法加载皮肤](./docs/e-1.md)
+  * [如何上传 鞘翅/翅膀/Elytra 的材质](./docs/e-2.md)
+  * [忘记了密码怎么办](./docs/e-3.md)
+  * [第三方登录问题](./docs/e-4.md)

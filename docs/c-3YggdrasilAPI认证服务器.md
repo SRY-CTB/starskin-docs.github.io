@@ -20,3 +20,17 @@
 <div style="text-align: center;">
 <img src=https://img-2.shanrenyi.top/i/2022/07/12/62cd8ccf7d3fd.png width=100% alt="StarSkin"/>
 </div>
+
+### 视频参考
+
+#### HMCL
+
+<video width="100%" height="auto" controls poster="https://img-2.shanrenyi.top/i/2022/12/24/63a663d8ad4b4.png">
+  <source src="https://starskin-file-2.shanrenyi.top/d/File-Two/shiyong-hmcl.mp4" type="video/mp4">
+</video>
+
+#### PCL
+
+<video width="100%" height="auto" controls poster="https://img-2.shanrenyi.top/i/2022/12/24/63a663d8ad4b4.png">
+  <source src="https://starskin-file-2.shanrenyi.top/d/File-Two/shiyong-pcl.mp4" type="video/mp4">
+</video>

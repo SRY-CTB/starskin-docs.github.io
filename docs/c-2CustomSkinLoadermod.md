@@ -6,6 +6,20 @@
 
 ### Custom Skin Loader mod
 Custom Skin Loader mod这是一个可以从任何在线来源或本地来源加载皮肤的mod
+
+### 推广 | PCL专属主页
+
+<div style="text-align: center;">
+<img src=https://img-2.shanrenyi.top/i/2022/12/10/639499bf5a545.png width=100% alt="StarSkin"/>
+<img src=https://img-2.shanrenyi.top/i/2022/12/10/639499bea8bee.png width=100% alt="StarSkin"/>
+</div>
+
+#### 使用方法
+1. 打开自己的PCL，打开设置，个性化 
+2. 下拉到自定义主页，选择联网更新，地址填写 https://star-skin.shanrenyi.top/custom/Custom.xaml 
+
+> 主页将不定期更新，所以不建议下载到本地使用 
+
 ### 安装
 下面是Custom Skin Loader的部分下载链接，点击下载正确版本的mod，或者在StarSkin File Webpage高速下载，并导入mod文件夹，重启游戏。
 >[推荐 StarSkin下载站](https://file.starskin.eu.org)<br>
