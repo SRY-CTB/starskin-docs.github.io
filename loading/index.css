@@ -7,7 +7,7 @@
 }
  
 .spinner > div {
-  background-color: #67CF22;
+  background-image: linear-gradient(to right bottom, #70b7c7, #6bb6cf, #6ab4d7, #6db1dd, #75aee3, #6ab4ec, #5bbbf4, #47c1fb, #00d3fc, #00e3f1, #00f0da, #5ffbbc);
   height: 100%;
   width: 6px;
   display: inline-block;
