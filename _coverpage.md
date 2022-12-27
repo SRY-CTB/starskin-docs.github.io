@@ -5,7 +5,7 @@
 
 [官网](https://star-skin.shanrenyi.top/)
 [群聊](https://url.shanrenyi.top/starskin)
-[开始阅读](#docsify-demo)
+[开始阅读](https://docs.starskin.eu.org/#/./docs/a-1%E5%85%B3%E4%BA%8E%E6%9C%AC%E9%A1%B5%E9%9D%A2)
 
 ![](https://img-2.shanrenyi.top/i/2022/12/24/63a69af986b11.gif)
 
