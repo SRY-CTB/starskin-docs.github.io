@@ -21,6 +21,16 @@
 <img src=https://img-2.shanrenyi.top/i/2022/07/12/62cd8ccf7d3fd.png width=100% alt="StarSkin"/>
 </div>
 
+##### HMCL
+<div style="text-align: center;">
+<img src=https://img-2.shanrenyi.top/1/2022/12/31/63af0ea171d62.png width=100% alt="StarSkin"/>
+</div>
+
+##### BakaXL
+<div style="text-align: center;">
+<img src=https://img-2.shanrenyi.top/1/2022/12/31/63af0ece0185a.png width=100% alt="StarSkin"/>
+</div>
+
 ### 视频参考
 
 #### HMCL
