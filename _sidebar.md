@@ -6,7 +6,7 @@
   * [关于StarSkin](./docs/b-1.md)
   
 * 使用
-  * [注册](./docs/c-1使用.md)
+  * [注册](./docs/c-1.md)
   * [Custom Skin Loader mod](./docs/c-2.md)
   * [Yggdrasil API 认证服务器](./docs/c-3.md)
   * [Authlib Injector](./docs/c-4)
