@@ -4,6 +4,9 @@
 * 前言
 
   * [关于StarSkin](./docs/b-1.md)
+
+* 公告
+  * [公告关注](./docs/tip.md)
   
 * 使用
   * [注册](./docs/c-1.md)
